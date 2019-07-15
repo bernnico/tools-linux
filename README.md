@@ -1,1 +1,1 @@
-[Terminator](https://wiki.ubuntuusers.de/Terminator/)
+Terminal: [Terminator](https://wiki.ubuntuusers.de/Terminator/)
